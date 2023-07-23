@@ -5,3 +5,6 @@ Practice coding
 Buy a coffee
 Read
 Eat
+New task
+Next task
+
